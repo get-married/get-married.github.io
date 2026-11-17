@@ -9,7 +9,7 @@
   // ---------------------------------------------------------
   // SETTINGS
   // ---------------------------------------------------------
-  const KAKAO_JS_KEY    = '1bba4e659f27bfe21428069607505228'; // 카카오 JavaScript 키 (앱: 석주♡혜준)
+  const KAKAO_JS_KEY    = '43ffa7d81e3c4105657bdbb175f8a68d'; // 카카오 JavaScript 키 (앱: 석주♡혜준)
   const SITE_URL        = 'https://get-married.github.io/';
   const SHARE_TITLE     = '석주 ෆ 혜준 결혼합니다';
   const SHARE_DESC      = '2027. 8. 21. 토요일 오후 6시\n에스가든웨딩 동탄점';
